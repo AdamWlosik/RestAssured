@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "author": "Daria",
+      "id": 1,
+      "title": "Nowy Tytul"
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "Pierwsz Post",
+      "author": "Adam",
+      "id": 4
+    },
+    {
+      "title": "Pierwsz Post z pliku",
+      "author": "Tomek",
+      "id": 5
+    },
+    {
+      "author": "Daria",
+      "title": "tytul z mapy",
+      "id": 6
+    },
+    {
+      "title": "Tytul obiektowy",
+      "author": "Author obiektowy",
+      "id": 7
+    },
+    {
+      "title": "Tytul obiektowy",
+      "author": "Author obiektowy",
+      "id": 8
+    },
+    {
+      "title": "Tytul obiektowy",
+      "author": "Author obiektowy",
+      "id": 9
+    },
+    {
+      "title": "Tytul obiektowy",
+      "author": "Author obiektowy",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
